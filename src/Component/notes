@@ -1,0 +1,14 @@
+<!-- css propety rem,vh.vw , 
+ 
+  -->
+ 
+ 
+ 
+ 
+ 
+ 
+ <!-- grid-template-columns: auto auto :- The grid-template-columns property defines the number of columns in your grid layout, and it can define the width of each column.
+
+The value is a space-separated-list, where each value defines the width of the respective column.
+
+If you want your grid layout to contain 4 columns, specify the width of the 4 columns, or "auto" if all columns should have the same width. -->
